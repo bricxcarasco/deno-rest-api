@@ -1,4 +1,4 @@
-import { Post } from '../interface/post.ts';
+import { Post } from '../model/post.ts';
 
 let posts = [
     {
